@@ -1,0 +1,24 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "CRUD API NODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tset": "echo \"Error: tset specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pedro Caniato",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+
+}
